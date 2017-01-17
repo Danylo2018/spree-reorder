@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_reorder'
-  s.version     = '3.0.0'
+  s.version     = '3.2.0'
   s.summary     = 'Simply adds a Reorder button to the Order show view.'
   s.description = 'Simply adds a Reorder button to the Order show view.'
   s.required_ruby_version = '>= 1.9.2'
